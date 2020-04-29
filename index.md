@@ -126,6 +126,7 @@ This block displays the date and links to Google Calendar.
   <strong>When:</strong>
   {{page.humandate}}.
   {% include workshop_calendar.html %}
+  Please plan on attending both days of the workshop to get the most from your learning experience.
 </p>
 {% endif %}
 
