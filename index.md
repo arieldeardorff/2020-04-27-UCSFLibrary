@@ -1,11 +1,9 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-venue: "Bay Area - Online"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Online"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Via Zoom - link will be sent to registered participants"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-latitude: ""     # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: ""    # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "June 18-19, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9am - 12:30pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-06-18      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
@@ -151,20 +149,8 @@ special instructions.
 {% endcomment %}
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
-  accessible to everybody.
-  The workshop organizers have checked that:
-</p>
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
-<p>
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
-  get in touch (using contact details below) and we will
-  attempt to provide them.
+  accessible to everybody. If we can help making learning easier for
+  you please get in touch (using contact details below) and let us know.
 </p>
 
 {% comment %}
